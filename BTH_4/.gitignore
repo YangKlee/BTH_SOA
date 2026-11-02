@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+database/*.db
+database/*.sqlite3
+database/*.sqlite3-*
+database/auth_demo_credentials.txt
