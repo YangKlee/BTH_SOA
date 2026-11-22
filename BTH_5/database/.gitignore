@@ -1,0 +1,9 @@
+products.sqlite3
+products.sqlite3-*
+orders.sqlite3
+orders.sqlite3-*
+reports.sqlite3
+reports.sqlite3-*
+DB_ProjectManagerment.db
+DB_ProjectManagerment.db-*
+auth_demo_credentials.txt
